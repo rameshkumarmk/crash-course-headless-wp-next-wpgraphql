@@ -7,8 +7,8 @@ export default function Footer (){
             target="_blank"
             rel="noopener noreferrer"
             >
-            Part of the WP Engine Headless Developers Road Map 🗺️ 
-            </a>
+            Dinamalar  - No.1 Tamil news website in the world.
+            </a> © 2022 Dinamalar. 
         </footer>
     )
 }
